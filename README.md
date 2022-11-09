@@ -24,7 +24,7 @@ Node, Inquirer, MySQL
 
 In the command Line.
 
-https://drive.google.com/file/d/1lHZ7565GnqOsJFisUgUe0vue7yShFb9X/view
+https://drive.google.com/file/d/1cnDv52bNj4Z2zMpP4jUUQOncFQ1LaUQV/view?usp=sharing
 
 The commands to add roles, departments, and empoyee are (WIP)
 
